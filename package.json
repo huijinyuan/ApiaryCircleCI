@@ -1,0 +1,25 @@
+{
+  "name": "apiarycircleci",
+  "version": "1.0.0",
+  "description": "Test how the apiary work with Circle Ci.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huijinyuan/ApiaryCircleCI.git"
+  },
+  "keywords": [
+    "Apiary",
+    "Circle",
+    "Ci",
+    "Dredd"
+  ],
+  "author": "Jinou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huijinyuan/ApiaryCircleCI/issues"
+  },
+  "homepage": "https://github.com/huijinyuan/ApiaryCircleCI#readme"
+}
